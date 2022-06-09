@@ -26,7 +26,7 @@
     <!--arg name="camera_info_topic" value="/camera/color/camera_info"/-->
     <!--arg name="depth_camera_info_topic" value="/camera/depth/camera_info"/-->
     <arg name="rtabmapviz" value="false"/>
-    <arg name="rviz" value="false"/>
+    <arg name="rviz" value="true"/>
     <arg name="left_image_topic" value="/camera/infra1/image_rect_raw"/>
     <arg name="right_image_topic" value="/camera/infra2/image_rect_raw"/>
     <arg name="left_camera_info_topic" value="/camera/infra1/camera_info"/>
